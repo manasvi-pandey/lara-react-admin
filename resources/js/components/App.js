@@ -1,6 +1,7 @@
 import { Route } from 'react-router-dom'
 
 import './App.css'
+import '@fortawesome/fontawesome-free'
 import Navbar from './Navbar/Navbar'
 import Sidebar from './Sidebar/Sidebar'
 import Footer from './Footer/Footer'
